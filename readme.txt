@@ -1,3 +1,16 @@
+===This is a modded version 2.5.4 of an Original CodesWholesale===
+===WordPress / WooCommerce plugin==
+= It fixes the Produc import function =
+= Product Price update (and probably stock) is operational = 
+
+=Tested with Wordpress v.6.1.1=
+=highest PHP version with which plugin is working is:=
+===v.7.4===
+=This version of plugin does not work with higher PHP versions!=
+
+
+
+
 === CodesWholesale.com for WooCommerce ===
 Contributors: Devteam CodesWholesale
 Tags: woocommerce, api , codeswholesale api, digital games, digital games to sell, cd-keys, automated game delivery, digital game catalogue, digital product catalogue, automated game supply chain, digital products, digital products to sell
