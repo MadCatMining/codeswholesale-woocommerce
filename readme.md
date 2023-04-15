@@ -1,3 +1,13 @@
+```
+USE THE DOWNLOAD IN THE RELEASE SECTION!
+
+DIRECT LINK:
+============
+https://github.com/MadCatMining/codeswholesale-woocommerce/releases/download/v.2.5.4_modded/codeswholesale-woocommerce.zip
+
+OTHERWISE "Source.zip" is missing the linked "cw-extension-framework" directory!
+```
+
 ***This is a modded version 2.5.4 of an Original CodesWholesale WordPress / WooCommerce plugin***
 **It fixes the Produc import function**
 **Product Price update (and probably stock) is operational**
